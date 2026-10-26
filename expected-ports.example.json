@@ -1,0 +1,4 @@
+[
+  { "port": 24001, "container": "alice-24001", "note": "某位同学" },
+  { "port": 24555, "container": "bob-24555", "note": "某位老师" }
+]

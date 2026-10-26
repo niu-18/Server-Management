@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.cache/
+logs/
+.env
+*.local
+servers.json
+expected-ports.json
+.DS_Store
+*.log
